@@ -1,11 +1,11 @@
 ### Hi there, I'm Luis Felipe - aka Pipe
 
-## I'm an Air Traffic Controllera who working hard to become a Developer!
+## I'm an Air Traffic Controller who is working hard to become a Developer!
 
-- I'm currently working on a personal project in honnor of my grandmother
-- I'm always studing something different
-- 2021 Goal: Make a pivotal change in my carreer.
-- Fun fact: I love reading, photographs and beer 🤣
+- :heart: I'm currently working on a personal project in honnor of my grandmother :blush:
+- :nerd_face: I'm always studing something different
+- :goal_net: 2021 Goal: Make a pivotal change in my carreer.
+- :star: Fun fact: I love reading :books: | photography :camera: | and beer :beers:
 
 ### Connect with me:
 
