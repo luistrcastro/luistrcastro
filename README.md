@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Developer working at Current SCM!
 
-- :heart: I'm currently working on a personal project in honnor of my grandmother :blush:
+- :heart: I'm also working on a personal project in honnor of my grandmother :blush:
 - :nerd_face: I'm always studing something different
 - :goal_net: 2021 Goal: Make a pivotal change in my carreer.
 - :star: Fun fact: I love reading :books: | photography :camera: | and beer :beers:
