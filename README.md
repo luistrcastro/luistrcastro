@@ -1,6 +1,6 @@
 ### Hi there, I'm Luis Felipe - aka Pipe
 
-## I'm an Air Traffic Controller who is working hard to become a Developer!
+## I'm a Frontend Developer working at Current SCM!
 
 - :heart: I'm currently working on a personal project in honnor of my grandmother :blush:
 - :nerd_face: I'm always studing something different
