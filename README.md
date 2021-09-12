@@ -2,8 +2,8 @@
 
 ## I'm a Frontend Developer working at Current SCM!
 
-- :heart: I'm also working on a personal project in honnor of my grandmother :blush:
-- :nerd_face: I'm always studing something different
+- :heart: I'm also working on a personal project in honour of my grandmother :blush:
+- :nerd_face: I'm always studying something different
 - :goal_net: 2021 Goal: Make a pivotal change in my carreer.
 - :star: Fun fact: I love reading :books: | photography :camera: | and beer :beers:
 
@@ -25,5 +25,5 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 [website]: https://luistrcastro.github.io/
-[linkedin]: https://linkedin.com/in/luís-felipe-torres-da-rocha-castro-555992a1
+[linkedin]: https://www.linkedin.com/in/luis-felipe-castro/
 [instagram]: https://www.instagram.com/felipecastrofotografia/
