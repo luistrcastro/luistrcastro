@@ -1,4 +1,4 @@
-### Hi there, I'm Luis Felipe - aka Pipe
+### Hi there, I'm Luis Felipe
 
 ## I'm a Frontend Developer working at Current SCM!
 
