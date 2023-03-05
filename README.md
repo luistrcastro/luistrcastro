@@ -4,7 +4,7 @@
 
 - :heart: I'm also working on a personal project in honour of my grandmother :blush:
 - :nerd_face: I'm always studying something different
-- :goal_net: 2022 Goal: Develop my skills.
+- :goal_net: 2023 Goal: Develop fullstack skills.
 - :star: Fun fact: I love reading :books: | photography :camera: | and beer :beers:
 
 ### Connect with me:
