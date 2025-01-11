@@ -1,10 +1,11 @@
 ### Hi there, I'm Luis Felipe
 
-## I'm a Frontend Developer working at Current SCM!
+## I'm a Full Stack Developer working at Current SCM!
 
-- :heart: I'm also working on a personal project in honour of my grandmother :blush:
+- 💼 Proudly developing a financial app [MoneyFy.ca](https://lp.moneyfy.ca)
+- :heart: My proudest project is a family private social network in honour of my grandmother :blush:
 - :nerd_face: I'm always studying something different
-- :goal_net: 2023 Goal: Develop fullstack skills.
+- :goal_net: 2025 Goal: Continue developing MoneyFy.ca
 - :star: Fun fact: I love reading :books: | photography :camera: | and beer :beers:
 
 ### Connect with me:
